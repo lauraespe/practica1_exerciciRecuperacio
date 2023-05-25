@@ -28,3 +28,5 @@ https://github.com/lauraespe/practica1_exerciciRecuperacio/blob/main/practica1_e
 **Circuit Físic**
 
 ### Process Report
+
+### Video
