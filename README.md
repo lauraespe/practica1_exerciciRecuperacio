@@ -18,7 +18,7 @@ Els sensors són considerats inputs al ser utilitzats per enviar informació i l
 
 ### Arquitectura Tècnica
 **Diagrama de flux**
-![Start](https://github.com/lauraespe/practica1_exerciciRecuperacio/assets/81622003/6328a27a-f508-4923-b131-60c7c3c31f67)
+![Start](https://github.com/lauraespe/practica1_exerciciRecuperacio/assets/81622003/10eac383-801a-4125-a431-a3a9f7ee2e7d)
 
 **Codi Font**
 
