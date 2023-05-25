@@ -1,4 +1,4 @@
-# Pràctica 1 - Exercici de Recuperacio
+# Pràctica 1 - Exercici de Recuperació
 
 ### Briefing:
 El que s'ha de fer és **resoldre amb Arduino un circuit** que quan poses 3 sensors tipus hall (magnetics), es desactiva un electroiman. Amb 1 o 2 no n'hi ha prou, la lògica del arduino ha de ser tal que quan estan els 3 activats l'electroiman deixa d'actuar i s'allibera.
