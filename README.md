@@ -20,6 +20,11 @@ Els sensors són considerats inputs al ser utilitzats per enviar informació i l
 **Diagrama de flux**
 ![Start](https://github.com/lauraespe/practica1_exerciciRecuperacio/assets/81622003/6328a27a-f508-4923-b131-60c7c3c31f67)
 
+**Codi Font**
+
+https://github.com/lauraespe/practica1_exerciciRecuperacio/blob/main/practica1_exerciciRecuperacio_lauraEsteve.ino 
+
+
 **Circuit Físic**
 
 ### Process Report
